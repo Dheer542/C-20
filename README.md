@@ -1,2 +1,2 @@
-# C-20
-collision detection between two objects
+# p5.play-boilerplate
+Boiler plate for p5.play
